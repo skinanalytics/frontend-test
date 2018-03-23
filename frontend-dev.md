@@ -12,3 +12,5 @@ Thanks again for your time during the first round interview. In order to assess 
 # Coding exercise
 
 Below is a small coding challenge to complete at home. You can use as much online resources (Google, online documentation, etc.) as you wish. We expect you to spend no more than 1-2 hours on it. We don't want you to over-engineer the solution but be prepared to extend the functionnality in the next step of the interview process. Finally, we ask you to submit a solution that you'd be happy to go live with and works "out of the box”.
+
+Please create a local git repository and then commit to this as you work. When you have finished please zip up the whole folder (including the .git folder) and email it to recruitment@skinanalytics.co.uk. Please do not make your solution public.
