@@ -1,7 +1,5 @@
 # Skin Analytics - Frond End Technical Exercise
 
-## Guidelines
-
 Thanks again for your time during the first round interview. In order to assess your technical level, please find below a technical test which include a small coding exercise and some general background questions. 
 
 ## General background questions
@@ -9,10 +7,14 @@ Thanks again for your time during the first round interview. In order to assess 
 - One client is reporting an issue on your main web application you cannot replicate. How do you proceed to narrow down the problem?
 - Tell me about one thing that many web sites do poorly. How would you fix it?
 
-# Coding exercise
+## Coding exercise
 
 Below is a small coding challenge to complete at home. You can use as much online resources (Google, online documentation, etc.) as you wish. We expect you to spend no more than 1-2 hours on it. 
 
 We don't want you to over-engineer the solution but be prepared to extend the functionnality in the next step of the interview process. Finally, we ask you to submit a solution that you'd be happy to go live with and works "out of the box”.
 
 Please create a local git repository and then commit to this as you work. When you have finished please zip up the whole folder (including the .git folder) and email it to recruitment@skinanalytics.co.uk. Please do not make your solution public.
+
+### Guidelines technical specifications
+
+Use whatever Javascrit framework you feel comfortable with but you should already have an idea about our technology stack :-)
