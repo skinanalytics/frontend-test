@@ -22,7 +22,7 @@ Please include any setup instructions and keep the setup steps simple. Your solu
 
 Use whatever Javascript framework you feel comfortable with but you should already have an idea about our technology stack :-)
 
-There is a [CSV](https://github.com/skinanalytics/technical-tests/blob/master/data/cases.csv) file containing 20 cases of patients submitting a skin cancer check. 
+There is a [CSV file](https://github.com/skinanalytics/technical-tests/blob/master/data/cases.csv) containing 20 cases of patients submitting a skin cancer check. 
 A case has fixed data as the following:
 - A case number
 - A date of creation
