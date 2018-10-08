@@ -20,16 +20,15 @@ Please include any setup instructions and keep the setup steps simple. Your solu
 
 ### Guidelines technical specifications
 
-Use whatever Javascript framework you feel comfortable. At this stage of the process, you should already have an idea about our technology stack :-)
+We are asking you to build a JavaScript application that shows the latest news from the United Kingdom, using the [newsapi.org](https://newsapi.org) service.
 
-Build a JavaScript application that shows the latest news from the United Kingdom, using the [newsapi.org](https://newsapi.org) service.
-
-Running the app we should be able to see the latest **UK news** and give the ability to the user to filter them by keywords (see [everything endpoint api](https://newsapi.org/docs/endpoints/everything)). Optionally clicking on a news the user will navigate to an individual article page which should also include the thumbail (the *urlToImage* field).
+Running the app, we should be able to see the latest **UK news**. Clicking on a news item will bring the user to an individual article page which should also include the thumbail (the *urlToImage* field).
+Bonus point: Give the ability to the user to filter news by keywords (see [everything endpoint api](https://newsapi.org/docs/endpoints/everything))
 
 Given the fact that this is a Full Stack developer position, we are expecting a Frontend application and a Backend application that communicate with each other.
 
 ### What we are looking for
 - We anticipate that this app may have future requirements, so you should aim for maintainability with your solution.
 - The javascript ecosystem changes quickly, so we like to see knowledge of javascript fundamentals.
-- We want to discover how you write code day-to-day.
+- We want to discover how you writecode day-to-day.
 - We don't want you to spend hours tweaking every pixel. Keep it simple and functional.
